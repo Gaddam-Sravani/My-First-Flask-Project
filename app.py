@@ -5,7 +5,7 @@ def home():
 	return """
 	<html>
 		<body>
-			<h1> Hello RGUKT </h1>
+			<h1> My Web Application is Live </h1>
 		</body>
 	</html>"""
 if __name__== "__main__":
